@@ -4,4 +4,5 @@ git commit
 git push
 ## Autor
 Juan Aurelio Montero Conde
-linea añadida desde rama main por Juan Montero
+linea modificada desde Rama conflicto por Juan Montero
+
